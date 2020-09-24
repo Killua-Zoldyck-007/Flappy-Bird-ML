@@ -8,7 +8,8 @@ This is the 1st time im attempting an ML program and without any external librar
 
 ## Important notes :-
 The pipes from 21-25 are hard coded so if any bird crosses a score of 25 it is expected to go on infinitly.
-Set DUBUG to True on line 17 in main.py to see the 2 best parents of each generation
+
+[!Set DUBUG to True on line 17 in main.py](https://github.com/Killua-Zoldyck-007/Flappy-Bird-ML/blob/master/main.py#L17) to see the 2 best parents of each generation
 
 Expected 15-30 Generations for the program to be trained completly may be less or more
 
