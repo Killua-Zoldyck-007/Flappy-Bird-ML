@@ -116,7 +116,7 @@ class Pipe:
         if counter==26:
             print('#'*60)
             for num, bird in enumerate(birds):
-                print(f'Bird{num}: (Weights: {bird.weights[0]},{bird.weights[1]},{bird.weights[2]}), Rig: {bird.rig}, Min output to jump: {bird.outmin}, Max output to jump: {bird.outmax}')
+                print(f'Bird{num+1}: (Weights: {bird.weights[0]},{bird.weights[1]},{bird.weights[2]}), Rig: {bird.rig}, Min output to jump: {bird.outmin}, Max output to jump: {bird.outmax}')
             print('#'*60)
         counter+=1
         self.top = self.height - self.PIPE_TOP.get_height()
