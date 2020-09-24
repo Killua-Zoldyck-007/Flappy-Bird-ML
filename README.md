@@ -9,6 +9,6 @@ This is the 1st time im attempting an ML program and without any external librar
 The pipes from 21-25 are hard coded so if any bird crosses a score of 25 it is expected to go on infinitly.
 Set DUBUG to True on line 17 in main.py to see the 2 best parents of each generation
 
-Expected 15-30 Generations for the program to go on infinitly
+Expected 15-30 Generations for the program to be trained completly may be less or more
 
 If any bird crosses a score of 25 its values will be printed on the console
