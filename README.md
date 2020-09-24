@@ -18,3 +18,7 @@ If any bird crosses a score of 25 its values will be printed on the console
 ## How to Run :-
 1. Clone/Donload this repo
 2. Be sure to have pygame installed and run main.py
+
+
+# How it Works :-
+Todo
