@@ -12,3 +12,7 @@ Set DUBUG to True on line 17 in main.py to see the 2 best parents of each genera
 Expected 15-30 Generations for the program to be trained completly may be less or more
 
 If any bird crosses a score of 25 its values will be printed on the console
+
+## How to Run :-
+1. clone/donload this repo
+2. Be sure to have pygame installed and run main.py
