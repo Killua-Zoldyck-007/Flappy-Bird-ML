@@ -14,5 +14,5 @@ Expected 15-30 Generations for the program to be trained completly may be less o
 If any bird crosses a score of 25 its values will be printed on the console
 
 ## How to Run :-
-1. clone/donload this repo
+1. Clone/Donload this repo
 2. Be sure to have pygame installed and run main.py
