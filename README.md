@@ -4,6 +4,7 @@ My 1st ever ML project 🤩 .
 Made this by using the concepts of **NEAT(NeuroEvolution of Augmenting Topologies)** not the NEAT package itself so no external library needed(other than pygame which is used to render the game).
 
 This is the 1st time im attempting an ML program and without any external library so it not might be as good as the other programs
+[![Run on Repl.it](https://repl.it/badge/github/Killua-Zoldyck-007/Flappy-Bird-ML)](https://repl.it/github/Killua-Zoldyck-007/Flappy-Bird-ML)
 
 ## Important notes :-
 The pipes from 21-25 are hard coded so if any bird crosses a score of 25 it is expected to go on infinitly.
